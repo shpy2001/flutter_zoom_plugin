@@ -17,9 +17,9 @@ Feedback and Pull Requests are always welcome.
 
 ## Zoom SDK Versions
 
-Android: https://github.com/zoom/zoom-sdk-android/releases/tag/v4.6.21666.0429
+Android: 
  
-iOS: https://github.com/zoom/zoom-sdk-ios/releases/tag/v4.6.21666.0428
+iOS: 
 
 ## Installation
 
