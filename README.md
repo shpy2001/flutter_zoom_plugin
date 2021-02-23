@@ -17,9 +17,9 @@ Feedback and Pull Requests are always welcome.
 
 ## Zoom SDK Versions
 
-Android: test
+Android: zoom-sdk-android-5.4.3.613
  
-iOS: 
+iOS: zoom-sdk-ios-5.4.54802.0124
 
 ## Installation
 
